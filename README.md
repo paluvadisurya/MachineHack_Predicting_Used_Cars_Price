@@ -1,6 +1,8 @@
 # MachineHack_Predicting_Used_Cars_Price
 - Predicting the prices of a Used Cars using SciKit Learn Supervised ML techniques
 
+### Surya Vamsi - [paluvadisurya@gmail.com](mailto:paluvadisuryavamsi@gmail.com)
+
 ![](https://i.imgur.com/IhmfRed.png)
 ---
 ![](https://i.imgur.com/FcZJgZP.jpg)
