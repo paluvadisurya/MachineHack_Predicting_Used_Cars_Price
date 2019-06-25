@@ -6,22 +6,22 @@
 ![](https://i.imgur.com/FcZJgZP.jpg)
 - 01 - Building a Regression model to predict the prices of used cars
   * [1.1 Introduction](#11-Introduction)
-  * [1.2 Libraries Used]()
-  * [1.3 Algorithm]()
-  * [1.4 Data Set]()
+  * [1.2 Libraries Used](#12-Libraries-Used)
+  * [1.3 Algorithm](#13-Algorithm)
+  * [1.4 Data Set](#14-Data-Set)
 
  - 02 - Index
-    * [2.1 Problem Statement]()
-    * [2.2 Business Understanding]()
-    * [2.3 Data Exploration]()
-    * [2.4 Data Cleaning]()
-    * [2.5 Data Visualization]()
-    * [2.6 Model Building]()
+    * [2.1 Problem Statement](#21-Problem-Statement)
+    * [2.2 Business Understanding](#22-Business-Understanding)
+    * [2.3 Data Exploration](#23-Data-Exploration)
+    * [2.4 Data Cleaning](#24-Data-Cleaning)
+    * [2.5 Data Visualization](#25-Data-Visualization)
+    * [2.6 Model Building](#26-Model-Building)
     
 - 03 - Model Evaluation
-     * [Validating data on split training & testing data]()
+     * [Validating data on split training & testing data](#31-Validating-data-on-split-training-&-testing-data)
      
-- [04 - Conclusion]()
+- [04 - Conclusion](#41-Conclusion)
 
 
 ---
@@ -54,7 +54,7 @@
 - Companies can have Fraud Customers who are posting cars for higher prices.
 - Companies can expand their network based on the number of cars being sold the next year by prediction.
  
- ### 2.3 Data Exploration 
+ ### 2.3 Data Exploration
 | Parameter | Description  |
 | --- | --- |
 |Name | The brand and model of the car |
