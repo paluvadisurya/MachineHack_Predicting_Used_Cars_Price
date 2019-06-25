@@ -5,7 +5,7 @@
 ---
 ![](https://i.imgur.com/FcZJgZP.jpg)
 - 01 - Building a Regression model to predict the prices of used cars
-  * [1.1 Introduction]()
+  * [1.1 Introduction](#11-Introduction)
   * [1.2 Libraries Used]()
   * [1.3 Algorithm]()
   * [1.4 Data Set]()
